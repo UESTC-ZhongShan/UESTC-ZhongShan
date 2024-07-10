@@ -2,12 +2,10 @@
 
 ## 本文来自知乎屏蔽回答。问题原点。https://www.zhihu.com/question/411211657
 （可在PULL RESQUESTS添加各项回答要点。不定期更新，如上图等，建议使用非实名注册邮箱、github账号；保护自身安全）
-### 现设立[海外瓜房](https://github.com/UESTC-ZhongShan/News/)，在线收瓜；
+### 现设立[海外瓜房](https://github.com/UESTC-ZhongShan/News/)，在线收瓜；例如：某计算机学院教师，学术造假（论文由学生代写），压榨学生，利用学生的多篇SCI评定教授职称，并取得，同时威胁学生。
 ### 现设立[海外教工评价](https://github.com/UESTC-ZhongShan/Say-something)
 ### 现设立[海外学科评价](https://github.com/UESTC-ZhongShan/Science-Technology)
 ### 现设立[资源链接、学习通道 电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)  感谢@Xovee
-# 例如：某学院教师，学术造假，压榨学生，用学生SCI评定教授职称，并取得，同时威胁学生。
-
 ### 谢原答主；醍醐灌顶。
 
 
