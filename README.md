@@ -1,7 +1,18 @@
+<div align="center">
+  <h1>电子科技大学中山学院（海外）</h1>
+  <img src="https://github.com/user-attachments/assets/6aece056-ada3-4f51-8513-941bfdc858d2" alt="uestczs Logo"  height="300" >
+  <p>University of Electronic Science and Technology of China，Zhongshan Institute (oversea)!</p>
+  <p</p>
+  <a href="https://github.com/UESTC-ZhongShan">电子科技大学中山学院（GITHUB）</a>
+</div>
+
+
+
+
 # 电子科技大学中山学院（海外）！
 # University of Electronic Science and Technology of China，Zhongshan Institute (oversea)!
 
-## 欢迎各位友友！本坛因转设设立（特殊时期），感谢海内外校友前辈。
+## 欢迎各位友友！本坛因[转设设立（特殊时期）](https://github.com/UESTC-ZhongShan/Turbulent-times)，感谢海内外友友前辈。
 ## Welcome!
 
 # 历任院长（Former Presidents）
@@ -19,7 +30,7 @@
 ## 马争，电子科技大学（中山学院）; 电子科技大学副校长、中山学院院长（2004.3-2011.12）；
 ## Zheng Ma, Vice President of UESTC, President of Zhongshan Institute（UESTC）, ，University of Electronic Science and Technology of China，(2004.3-2011.12)；
 
-![image](https://github.com/user-attachments/assets/1ae36581-8008-4bd7-b63f-dd76bb55941d)
+<img src="https://github.com/user-attachments/assets/1ae36581-8008-4bd7-b63f-dd76bb55941d" alt="image" height="300">
 ## 徐建华，电子科技大学中山学院； 院长（2011.12-现任）；
 ## Jianhua Xu，President of Zhongshan Institute（UESTC，University of Electronic Science and Technology of China，(2011.12-Current) 
 
