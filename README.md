@@ -17,8 +17,8 @@
   <h2>徐建华<br>电子科技大学校长助理、中山学院院长<br>（2011.12-现任）<br>电子科技大学（中山学院）<br> Jianhua Xu，President of Zhongshan Institute，University of Electronic Science and Technology of China，(2011.12-Current) <h2>
 </div>
   
-# [【转设情况，原知乎答案，以及近况跟踪】](https://github.com/UESTC-ZhongShan/Turbulent-times); 
-## 全面跟踪学校特殊时期，欢迎在线投稿。
+# 全面跟踪，学校特殊时期，欢迎在线投稿。[【转设情况，原知乎答案，以及近况跟踪】](https://github.com/UESTC-ZhongShan/Turbulent-times); 
+
 ## 现设立[【海外瓜房】](https://github.com/UESTC-ZhongShan/News/)，（勇敢牛牛，不怕困难，你敢乱来，国际知名）
 ## 在线收瓜；最新大瓜即将上线：预告：某计算机学院教师，学术造假（全部论文由学生代写），压榨学生，利用学生的多篇SCI评定并取得教授职称，同时威胁学生。
 ## 现设立[【海外教工评价】](https://github.com/UESTC-ZhongShan/Say-something)； （国内担心不敢骂，拿到证据帮你骂）
