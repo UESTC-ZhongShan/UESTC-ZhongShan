@@ -4,7 +4,7 @@
   <p>University of Electronic Science and Technology of China<br>Zhongshan Institute<br> (oversea)!</p>
   <p</p>
   <h3>欢迎各位友友！感谢海内外友友、前辈。<h3>
-  <a href="https://github.com/UESTC-ZhongShan/Turbulent-times">本坛转设设立（特殊时期）</a>
+  <a href="https://github.com/UESTC-ZhongShan/Turbulent-times">本站由于转设设立（特殊时期）</a>
   <h1>历任院长<br>（Former Presidents）<h1>
   <img src="https://github.com/user-attachments/assets/1b47085a-de4f-4bbb-9415-44ad2bc79fde" alt="image" height="300">
   <h2> 袁伟时<br>院长<br>（1986.7-1997.6）<br>中山大学孙文学院<br> Weishi Yuan, Dean of Sun Wen College, Sun Yat-sen University (1986.7-1997.6)<h2> 
