@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1fb93c31-1dd6-438d-bee6-cad487b798c9" alt="uestczs Logo"  height="100" >
-  <h1>电子科技大学中山学院<br>（海外）<br>Welcome!<h1>
+  <h1>电子科技大学中山学院<br>（海外）<br>Welcome!UESTC-Zhongshan！<h1>
   <p>University of Electronic Science and Technology of China<br>Zhongshan Institute<br> (oversea)!</p>
   <p</p>
   <h1>欢迎各位友友！感谢海内外友友、前辈。<h1>
@@ -10,7 +10,7 @@
   <h2> 袁伟时<br>院长（1986.7-1997.6）<br>中山大学孙文学院<br> Weishi Yuan, Dean of Sun Wen College, Sun Yat-sen University (1986.7-1997.6)<h2> 
   <h2> 中山学院 1997.6-2002.6 <h2>
   <img src="https://github.com/user-attachments/assets/853cb48e-690d-4fd0-b115-5d7dfa472809" alt="image" height="300">
-  <h2>马争<br>筹备主任（院长）（2002.6-2004.03）<br>电子科技大学（中山学院）<br> Zheng Ma, Preparation Director (President of Zhongshan Campus)<br>University of Electronic Science and Technology of China，(2002.6-2004.03)<br>电子科技大学副校长、中山学院院长（2004.3-2011.12）<br>电子科技大学（中山学院）<br> Zheng Ma, Vice President of UESTC, President of Zhongshan Institute（UESTC）University of Electronic Science and Technology of China，(2004.3-2011.12)；<h2>
+  <h2>马争<br>筹备主任（院长）（2002.6-2004.03）<br>电子科技大学（中山学院）<br> Zheng Ma, Preparation Director (President of Zhongshan Campus)<br>University of Electronic Science and Technology of China，(2002.6-2004.03)<br>电子科技大学副校长、中山学院院长（2004.3-2011.12）<br>电子科技大学（中山学院）<br> Zheng Ma, Vice President of UESTC, President of Zhongshan Institute，University of Electronic Science and Technology of China，(2004.3-2011.12)；<h2>
 
   <img src="https://github.com/user-attachments/assets/1ae36581-8008-4bd7-b63f-dd76bb55941d" alt="image" height="300">
 
