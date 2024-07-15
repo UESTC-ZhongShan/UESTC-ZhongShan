@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6aece056-ada3-4f51-8513-941bfdc858d2" alt="uestczs Logo"  height="300" >
+  <img src="https://github.com/user-attachments/assets/1fb93c31-1dd6-438d-bee6-cad487b798c9" alt="uestczs Logo"  height="300" >
   <h1>电子科技大学<br>中山学院<br>（海外）<h1>
   <p>University of Electronic Science and Technology of China<br>Zhongshan Institute<br> (oversea)!</p>
   <p</p>
@@ -27,11 +27,12 @@
 # [【转设情况，原知乎答案，以及近况跟踪】](https://github.com/UESTC-ZhongShan/Turbulent-times); 
 ## 全面跟踪学校特殊时期https://github.com/UESTC-ZhongShan/Turbulent-times ；欢迎在线投稿。
 ## 现设立[【海外瓜房】](https://github.com/UESTC-ZhongShan/News/)，（勇敢牛牛，不怕困难，你敢乱来，国际知名）
-## 在线收瓜；最新大瓜例如：某计算机学院教师，学术造假（论文由学生代写），压榨学生，利用学生的多篇SCI评定并取得教授职称，同时威胁学生。
+## 在线收瓜；最新大瓜即将上线：预告：某计算机学院教师，学术造假（全部论文由学生代写），压榨学生，利用学生的多篇SCI评定并取得教授职称，同时威胁学生。
 ## 现设立[【海外教工评价】](https://github.com/UESTC-ZhongShan/Say-something)； （国内担心不敢骂，拿到证据帮你骂）
 ## 现设立[【海外学科评价】](https://github.com/UESTC-ZhongShan/Science-Technology)；（国内不方便说，国外帮你说）
 ## 现设立[【中山学院生活】]
 ## 现设立【资源链接、学习通道】 [电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)  感谢@Xovee
 ## 现设立【电子科技大学LaTeX本硕博论文模板】；[模板一](https://github.com/shifujun/UESTCthesis) 感谢@shifujun ； [模板二](https://github.com/bdebye/thesisuestc) 感谢电子科技大学物理电子学院2014级硕士研究生王稳
+
 
 
