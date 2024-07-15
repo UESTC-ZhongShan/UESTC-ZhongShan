@@ -9,7 +9,7 @@
   <h1>Welcome!<h1>
   <h2>历任院长（Former Presidents）<h2>
   <img src="https://github.com/user-attachments/assets/1b47085a-de4f-4bbb-9415-44ad2bc79fde" alt="image" height="300">
-  <h2>中山大学孙文学院 院长（1986.7-1997.6） 袁伟时；<h2>
+  <h2> 袁伟时院长（1986.7-1997.6）<br>中山大学孙文学院<h2>
   <h2> Weishi Yuan, Dean of Sun Wen College, Sun Yat-sen University (1986.7-1997.6)<h2>
     
   <h2> 中山学院 1997<h2>
