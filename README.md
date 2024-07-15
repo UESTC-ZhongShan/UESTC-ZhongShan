@@ -16,12 +16,12 @@
 
   <img src="https://github.com/user-attachments/assets/853cb48e-690d-4fd0-b115-5d7dfa472809" alt="image" height="300">
 
-  <h2>马争 筹备主任（院长）电子科技大学（中山学院）(2002.6-2004.03)<br>Zheng Ma, Preparation Director (President of Zhongshan Campus)<br>University of Electronic Science and Technology of China，(2002.6-2004.03);<h2>
-  <h2>马争 电子科技大学副校长、中山学院院长（2004.3-2011.12），电子科技大学（中山学院）<br> Zheng Ma, Vice President of UESTC, President of Zhongshan Institute（UESTC）University of Electronic Science and Technology of China，(2004.3-2011.12)；<h2>
+  <h2>马争（2002.6-2004.03）<br>筹备主任（院长）电子科技大学（中山学院）<br> Zheng Ma, Preparation Director (President of Zhongshan Campus)<br>University of Electronic Science and Technology of China，(2002.6-2004.03);<h2>
+  <h2>马争（2004.3-2011.12）<br>电子科技大学副校长、中山学院院长，电子科技大学（中山学院）<br> Zheng Ma, Vice President of UESTC, President of Zhongshan Institute（UESTC）University of Electronic Science and Technology of China，(2004.3-2011.12)；<h2>
 
   <img src="https://github.com/user-attachments/assets/1ae36581-8008-4bd7-b63f-dd76bb55941d" alt="image" height="300">
 
-  <h2>徐建华 电子科技大学校长助理，中山学院院长（2011.12-现任），电子科技大学（中山学院）<br> Jianhua Xu，President of Zhongshan Institute（UESTC，University of Electronic Science and Technology of China，(2011.12-Current) <h2>
+  <h2>徐建华（2011.12-现任）<br>电子科技大学校长助理、中山学院院长，电子科技大学（中山学院）<br> Jianhua Xu，President of Zhongshan Institute，University of Electronic Science and Technology of China，(2011.12-Current) <h2>
 </div>
   
 # [【转设情况，原知乎答案，以及近况跟踪】](https://github.com/UESTC-ZhongShan/Turbulent-times); 
