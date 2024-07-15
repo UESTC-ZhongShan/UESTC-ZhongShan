@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6aece056-ada3-4f51-8513-941bfdc858d2" alt="uestczs Logo"  height="300" >
-  <h1>电子科技大学</h1>
-  <h1>中山学院（海外）<h1>
-  <p>University of Electronic Science and Technology of China，Zhongshan Institute (oversea)!</p>
+  <h1>电子科技大学<br>中山学院<br>（海外）<h1>
+  <p>University of Electronic Science and Technology of China，Zhongshan Institute<br> (oversea)!</p>
   <p</p>
   <a href="https://github.com/UESTC-ZhongShan">电子科技大学中山学院（GITHUB）</a>
-  <h1>欢迎各位友友！感谢海内外友友前辈。<h1>
+  <h1>欢迎各位友友！感谢海内外友友、前辈。<h1>
   <a href="https://github.com/UESTC-ZhongShan/Turbulent-times">本坛转设设立（特殊时期）</a>
   <h1>Welcome!<h1>
   <h2>历任院长（Former Presidents）<h2>
