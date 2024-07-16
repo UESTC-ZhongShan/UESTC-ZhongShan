@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1fb93c31-1dd6-438d-bee6-cad487b798c9" alt="uestczs Logo"  height="100" >
   <h1>
-    电子科技大学中山学院<br>（海外）<br>Welcome!UESTC-Zhongshan！
+    电子科技大学中山学院<br>（海外）<br>Welcome!UESTC-Zhongshan!
     <h1>
   <p>University of Electronic Science and Technology of China<br>Zhongshan Institute<br> (oversea)!
   </p>
