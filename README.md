@@ -31,8 +31,8 @@
 ### 📂 专栏与资源导航
 * 🍇 **[【海外瓜房】](https://github.com/UESTC-ZhongShan/News/)** （勇敢牛牛，不怕困难，你敢乱来，国际知名）
   * *预告*：某计算机学院教师学术造假（全部论文由学生代写）、压榨学生并利用多篇 SCI 评定教授职称威胁学生，相关大瓜即将上线。
-* 🗣️ **[【海外教工评价】](https://github.com/UESTC-ZhongShan/Say-something)** （国内担心不敢骂，拿到证据帮你骂）
-* 📊 **[【海外学科评价】](https://github.com/UESTC-ZhongShan/Science-Technology)** （国内不方便说，国外帮你说）
+* 🗣️ **[【教工评价】](https://github.com/UESTC-ZhongShan/Say-something)** （国内担心不敢骂，拿到证据帮你骂）
+* 📊 **[【学科评价】](https://github.com/UESTC-ZhongShan/Science-Technology)** （国内不方便说，国外帮你说）
 * 🌴 **[【校园生活】](https://github.com/UESTC-ZhongShan/Life-Style)** (吃喝玩乐 & 诗和远方)
 * 🔗 **[【资源链接、学习通道】](https://github.com/Xovee/uestc-course)** 电子科技大学课程资料共享平台 *(感谢 @Xovee)*
 * 📝 **[【电子科技大学 LaTeX 论文模板一】](https://github.com/shifujun/UESTCthesis)** *(感谢 @shifujun)*
